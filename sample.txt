@@ -1,0 +1,1 @@
+Java multithreading ve dosya analizi örneği. Bu proje Java programlama dili ile geliştirilmektedir. Java ve Java dilinin geliştiricileri belirlemektedir.
